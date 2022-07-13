@@ -1,0 +1,19 @@
+-r requirements.prod.txt
+
+coverage
+flake8
+isort
+pylint
+pylint-django
+selenium
+autoflake
+faker
+tblib
+docutils
+pysnooper
+hunter
+icecream
+watchpoints
+black
+factory_boy
+bpython

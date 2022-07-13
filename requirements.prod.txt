@@ -1,0 +1,16 @@
+# django
+Django==4.0.6
+django-filter
+
+
+# celery
+celery[redis,auth,msgpack]
+django-celery-beat
+django-celery-results
+
+# rest
+djangorestframework
+django-cors-headers
+
+# tools
+sentry-sdk
