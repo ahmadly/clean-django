@@ -4,13 +4,13 @@ django-filter
 
 
 # celery
-celery[redis,auth,msgpack]
-django-celery-beat
-django-celery-results
+# celery[redis,auth,msgpack]
+# django-celery-beat
+# django-celery-results
 
 # rest
-djangorestframework
-django-cors-headers
+# djangorestframework
+# django-cors-headers
 
 # tools
-sentry-sdk
+# sentry-sdk
